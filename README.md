@@ -1,4 +1,4 @@
-## Hi, my name is Roberto. I am a Data Engineer, young professional working towards a diploma in Data Science. I am focused in Python, Pyspark, DBA, Airflow, OOP, AWS Cloud, Docker, ETL and Linux!
+## Hi, my name is Roberto. I am a young professional working towards a diploma in Data Science. I am focused in Python, Pyspark, DBA, Airflow, OOP, AWS Cloud, Docker, ETL and Linux!
 
 <div align="center">
   <a href="https://github.com/s33ding">
