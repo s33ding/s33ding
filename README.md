@@ -7,7 +7,6 @@
 ----------------------------------------------------------------------------------
 ## Language and tools:
 
-<div style="display: inline_block"><br>
   <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
       <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
@@ -17,8 +16,6 @@
     <img align="center" alt="Beto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
       <img align="center" alt="Beto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   
-</div>
-
   ----------------------------------------------------------------------------------  
   ## Contact:
 
