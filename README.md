@@ -1,3 +1,13 @@
+Hey World, I'm Roberto.
+
+I'm student of Data Science and I work as a Data Engineer in <a href="https://www.tisaude.com/">TI.Saúde</a>
+
+I’m from Brasília, Brazil.
+
+books I’m currently learning everything.
+
+outbox_tray 2022 Goals: Create new projects.
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
