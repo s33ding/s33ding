@@ -1,6 +1,6 @@
 Hey World, I'm Roberto.
 
-I'm student of Data Science and I work as a Data Engineer in <a href="https://www.tisaude.com/">TI.Saúde</a>
+I'm student of Data Science and I work as a Data Engineer in <a href="https://www.tisaude.com/">TI.Saúde.</a>
 
 I’m from Brasília, Brazil.
 
