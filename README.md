@@ -24,5 +24,8 @@
   <a href="https://www.linkedin.com/in/s33ding" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+  ----------------------------------------------------------------------------------  
+  ## Github Contribution:
+  
   ![Snake animation](https://github.com/s33ding/s33ding/blob/output/github-contribution-grid-snake.svg)
  
