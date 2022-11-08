@@ -16,8 +16,8 @@
     <img align="center" alt="Beto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
       <img align="center" alt="Beto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   </div>
-  ----------------------------------------------------------------------------------  
   
+  ----------------------------------------------------------------------------------  
   ## Contact:
   <a href = "mailto:robertomdiniz@protonmail.com">
     <img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
