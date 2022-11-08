@@ -1,6 +1,6 @@
 ## Hey World, I'm Roberto  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-:computer: I'm student of Data Science at <a href="https://www.iesb.br/">IESB</a>and I work as a Data Engineer in <a href="https://www.tisaude.com/">TI.Saúde.</a>
+:computer: I'm student of Data Science at <a href="https://www.iesb.br/">IESB</a> and I work as a Data Engineer in <a href="https://www.tisaude.com/">TI.Saúde.</a>
 
 :house_with_garden: I’m from Brazil, I live in Brasilia.
 
