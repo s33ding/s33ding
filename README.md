@@ -17,12 +17,12 @@
       <img align="center" alt="Beto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   </div>
   ----------------------------------------------------------------------------------  
+  
   ## Contact:
-<div>
   <a href = "mailto:robertomdiniz@protonmail.com">
     <img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/s33ding" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+
   ![Snake animation](https://github.com/s33ding/s33ding/blob/output/github-contribution-grid-snake.svg)
  
