@@ -28,4 +28,12 @@
   ## Github Contribution:
   
   ![Snake animation](https://github.com/s33ding/s33ding/blob/output/github-contribution-grid-snake.svg)
+  
+----------------------------------------------------------------------------------  
+SOME OF MY PROJECTS:
+
+- [AWS](https://github.com/s33ding/AWS)
+- [Cryptography](https://github.com/s33ding/cryptography)
+- [https://github.com/s33ding/speedtest-CLI_dataEngineering](https://github.com/s33ding/speedtest-CLI_dataEngineering)
+- [Financial Control - Wifi-BR](https://github.com/s33ding/financial_control_wifi-BR)
  
