@@ -34,6 +34,6 @@ SOME OF MY PROJECTS:
 
 - [AWS](https://github.com/s33ding/AWS)
 - [Cryptography](https://github.com/s33ding/cryptography)
-- [https://github.com/s33ding/speedtest-CLI_dataEngineering](https://github.com/s33ding/speedtest-CLI_dataEngineering)
+- [Speedtest-DataEngineering](https://github.com/s33ding/speedtest-CLI_dataEngineering)
 - [Financial Control - Wifi-BR](https://github.com/s33ding/financial_control_wifi-BR)
  
